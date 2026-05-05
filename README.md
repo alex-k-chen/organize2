@@ -4,7 +4,7 @@
 
 # Running
 
-```terminal
+```terminal 
 $ cp docker-compose.yml.sample docker-compose.yml
 ```
 
